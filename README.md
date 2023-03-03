@@ -18,7 +18,6 @@ activate venv:
 
 ```bash
   cd venv/Scripts/
-  ./Activate
 ```
 
 ```bash
