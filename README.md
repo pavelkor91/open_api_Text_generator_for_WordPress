@@ -14,6 +14,21 @@ Clone repo and create venv in folder:
   python -m venv venv
 ```
 
+activate venv:
+
+```bash
+  cd venv/Scripts/
+  ./Activate
+```
+
+```bash
+  ./Activate
+```
+
+```bash
+  cd ../..
+```
+
 Install all requirements:
 
 ```bash
